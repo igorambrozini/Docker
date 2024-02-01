@@ -2,7 +2,7 @@
 Docker documentation: https://docs.docker.com/
 
 ### 1) Downloading Docker Desktop
-Download last vresion at: https://www.docker.com/products/docker-desktop/
+Download last version at: https://www.docker.com/products/docker-desktop/
 
 ### 2) Install Docker Desktop
 Follow steps until installation is complete.

@@ -40,3 +40,26 @@ hostname: 127.0.0.1
 port: 3306  
 username: root  
 password: root
+
+### 6) Docker Basic commands
+
+Create a container:
+> docker run [imagem name]
+
+Download a image (to create containers)
+> Docker pull (parameter)
+
+Start container:
+> docker start mysql_database
+
+Stop container:
+> docker stop mysql_database
+
+Check all cointainers created:
+> docker ps
+
+Create a new image using a Dockerfile (path or URL, especific parameters)
+> docker build [OPTIONS] PATH | URL | –
+
+Execute a command in a running container:
+> docker exec [opções] CONTAINER COMMAND [ARGUMENTS]

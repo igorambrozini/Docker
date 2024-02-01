@@ -34,9 +34,9 @@ Go to Docker Desktop and verify it is running.
 
 ### 5) Check connection using a DBMS compatible with mysql like Workbench mysql
 
-Create a new database connection using:
-connection method: TCP/IP
-hostname: 127.0.0.1
-port: 3306
-username: root
+Create a new database connection using:  
+connection method: TCP/IP  
+hostname: 127.0.0.1  
+port: 3306  
+username: root  
 password: root
